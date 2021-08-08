@@ -23,6 +23,7 @@ The individual STL files are provided if pieces need to be printed individually 
   1. "Case - All pt1.stl"
   2. "Case - All pt2.stl"
   3. "Vents - All.stl"
+
 Some of these parts may need to be printed with support material from the build plate if your printer does not print small overhangs well.
 
 ## Assembly
